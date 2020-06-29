@@ -1,0 +1,36 @@
+html, body {
+	margin:0;
+	padding:0;
+}
+html {
+  font-family: 'Lato', sans-serif;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header {
+  background-color:#FBEDE3;
+}
+#headerh1 {
+	padding-top:10%;
+}
+#headerp {
+	padding-bottom:10%;
+}
+
+button{
+  padding-bottom:5%;
+  padding-top:5%;
+  width:50%;
+  color:white;
+  border-color:#ff6161;
+  border-style: solid;
+  background-color:#ff6161;
+  margin-bottom:5%;
+}
+button:hover {
+  color:#ff6161;
+  background-color:white;
+  border-color:#ff6161;
+}
