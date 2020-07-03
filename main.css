@@ -10,7 +10,7 @@ html {
   background-size: cover;
 }
 header {
-  background-color:#FBEDE3;
+  background-color:#e3effb;
 }
 #headerh1 {
 	padding-top:10%;
@@ -24,13 +24,17 @@ button{
   padding-top:5%;
   width:50%;
   color:white;
-  border-color:#ff6161;
+  border-color:#192052;
   border-style: solid;
-  background-color:#ff6161;
+  background-color:#192052;
   margin-bottom:5%;
 }
 button:hover {
-  color:#ff6161;
+  color:#192052;
   background-color:white;
-  border-color:#ff6161;
+  border-color:#192052;
+}
+#foot {
+	padding:0;
+	margin:0;
 }
