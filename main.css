@@ -1,10 +1,10 @@
-html, body {
+html, body, header {
 	margin:0;
 	padding:0;
 }
 html {
-  font-family: 'Lato', sans-serif;
-  -webkit-background-size: cover;
+  font-family: 'Be Vietnam', sans-serif;
+	-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -13,13 +13,19 @@ header {
   background-color:#e3effb;
 }
 #headerh1 {
+	color:#192052;
 	padding-top:10%;
+	padding-bottom:0%;
+	margin-bottom:0%;
 }
 #headerp {
+	color:#192052;
 	padding-bottom:10%;
+	padding-top:0%;
+	margin-top:0%;
 }
 
-button{
+button {
   padding-bottom:5%;
   padding-top:5%;
   width:50%;
@@ -40,5 +46,15 @@ button:hover {
 }
 a {
   text-decoration:none;
-  color:black;
+  color:#192052;
+}
+.mono {
+	color:#192052;
+	padding:0%;
+	margin:0%;
+}
+#made {
+	color:#192052;
+	padding:0%;
+	margin:0%;
 }
