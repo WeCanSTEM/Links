@@ -20,7 +20,7 @@ background-size: cover;
 	padding-bottom:0%;
 	margin-bottom:1%;
 }
-button {
+#but{
 	font-size:1.6rem;
   width:90%;
   color:#192052;
@@ -33,7 +33,24 @@ button {
 	margin-top:0%;
 
 }
-button:hover {
+#but:hover {
+  color:white;
+  background-color:#192052;
+  border-color:#192052;
+}
+#bottom{
+	font-size:1.6rem;
+  width:90%;
+  color:#192052;
+  border-color:#192052;
+  border-style: solid;
+  background-color:transparent;
+	padding-top:1%;
+	padding-bottom:1%;
+	margin-top:0%;
+margin-bottom:40rem;
+}
+#bottom:hover {
   color:white;
   background-color:#192052;
   border-color:#192052;
